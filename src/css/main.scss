@@ -9,25 +9,24 @@
  *      /_/    \__,_/ \___/ /_/ /_/_\__, / \____//_/ /_//____/
  *                                 /____/
  *
- *    TABLE OF CONTENTS
+ *    ÍNDICE
  *
- *    1. External Library Includes
+ *    1. Inclusões de Bibliotecas Externas
  *       - Reset.css | http://meyerweb.com/eric/tools/css/reset/
- *    2. Tachyons Modules
- *    3. Variables
- *       - Media Queries
- *       - Colors
- *    4. Debugging
- *       - Debug all
- *       - Debug children
+ *    2. Módulos Tachyons
+ *    3. Variáveis
+ *       - Consultas de Mídia
+ *       - Cores
+ *    4. Depuração
+ *       - Depurar tudo
+ *       - Depurar filhos
  *
  */
 
-
-/* External Library Includes */
+/* Inclusões de Bibliotecas Externas */
 @use './imports/_reset';
 
-/* Modules */
+/* Módulos */
 @use './imports/_box-sizing';
 @use './imports/_images';
 @use './imports/_background-size';
@@ -74,15 +73,15 @@
 @use './imports/_svg';
 @use './imports/_cms';
 
-/* Variables */
-/* Importing here will allow you to override any variables in the modules */
+/* Variáveis */
+/* Importando aqui permitirá que você sobrescreva qualquer variável nos módulos */
 @use './imports/_colors';
 @use './imports/_media-queries';
 @use './imports/_variables';
 
-/* Debugging */
+/* Depuração */
 @use './imports/_debug-children';
 @use './imports/_debug-grid';
 
-/* Uncomment out the line below to help debug layout issues */
+/* Descomente a linha abaixo para ajudar a depurar problemas de layout */
 /*@use './imports/_debug';*/
