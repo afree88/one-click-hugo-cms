@@ -1,19 +1,16 @@
 ---
-title: "Contact"
-logo: "/img/logo.svg"
+title: Contact
+logo: img/4_20250206_101052_0000.png
 contact_entries:
-  - heading: Location
-    text: "3153 Lynn Avenue, South San Francisco, California 94080"
-  - heading: Working hours
-    text: "Monday – Saturday: 9AM – 7PM We’re closed on Sundays"
+  - heading: Localização
+    text: Av. Gonçalves Dias, 2323 - ALTO DO PACOTE, Dom Pedro - MA, 65765-000
 ---
+Adoraríamos nos conectar com você e ouvir suas sugestões e dúvidas. Nosso compromisso é crescer e aprimorar continuamente, e o seu feedback é essencial para fortalecer nossa comunidade na fé.
 
-We’d love to get in touch with you and hear your ideas and
-questions. We strive to grow and improve constantly and your feedback
-is valuable for us.
 
-<h3 class="f4 b lh-title mb2">How can I get…?</h3>
 
-You can also use the form below for any inquiries about coffee
-availability, monthly subscriptions and scheduling a 1-on-1 session
-with our baristas. Don’t be shy, drop us a line!
+<h3 class="f4 b lh-title mb2">Como Podemos Ajudar?</h3>
+
+
+
+Utilize o formulário abaixo para enviar suas perguntas e comentários sobre os horários das missas, atividades da paróquia, projetos comunitários ou até para agendar um encontro com nossa equipe pastoral. Não hesite, deixe sua mensagem e conte conosco!
