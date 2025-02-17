@@ -1,5 +1,5 @@
 ---
-title: 🙌 Graça e Paz!
+title: Graça e Paz!
 subtitle: Bem-vindo à nossa Paróquia Nossa Senhora Aparecida e São Francisco Xavier
 image: img/img-20250216-wa0042.jpg
 blurb:
@@ -23,14 +23,6 @@ products:
     text: Fique por dentro das novidades da paróquia, eventos especiais, campanhas
       solidárias e ações comunitárias. Nosso objetivo é mantê-lo informado sobre
       tudo o que acontece em nosso lar de fé.
-  - image: img/espirito-santo.png
-    text: Acesse reflexões, meditações, orações e conteúdos que inspiram e ajudam a
-      nutrir sua jornada espiritual. Nosso site é um espaço de partilha e
-      aprendizado para todos que buscam se aproximar de Deus.
-  - image: img/pessoas-da-comunidade.png
-    text: ": Queremos ouvir você! Encontre canais de contato para tirar dúvidas,
-      enviar sugestões e se envolver ativamente nas nossas atividades. Sua
-      participação é fundamental para o fortalecimento da nossa comunidade."
 values:
   heading: Caminhando Juntos na Fé
   text: >-
