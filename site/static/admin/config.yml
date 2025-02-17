@@ -71,7 +71,7 @@ collections: # Lista de coleções que o CMS pode editar
 
                 
       - file: "site/content/products/_index.md"
-        label: "Página dos Valores"
+        label: "Página dos Princípios"
         name: "products"
         fields:
           - {label: Título, name: title, widget: string}
