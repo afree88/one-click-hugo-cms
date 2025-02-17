@@ -4,7 +4,7 @@ image: /img/about-jumbotron.jpg
 values:
   - heading: Matriz N. Sra. Aparecida e S. Fco. Xavier
     text: |-
-      * ⛪ Missa Dominical: às **19:00  <br>**
+      * ⛪ Missa Dominical: às **19:00**  <br>
       * 🙏 Confissões: Quinta-feira, das 11:00 às 12:00 <br>
       * 📖 Círculo Bíblico: Quarta-feira, às 19:30 <br>
       * ✝️ Adoração ao Santíssimo: Quinta-feira, às 19:00 <br>
