@@ -2,7 +2,10 @@
 <div class="mb4">
   <h4 class="f3 b lh-title mb3 tc">Entre em contato conosco</h4>
 
-  <form action="">
+  <form name="contato" method="POST" data-netlify="true">
+    <!-- Campo oculto para identificar o formulário no Netlify -->
+    <input type="hidden" name="form-name" value="contato">
+
     <div class="flex-l mhn1-l">
       <!-- Nome -->
       <div class="ph1-l w-50-l">
@@ -25,6 +28,7 @@
       <textarea id="message" name="message" placeholder="Sua mensagem" rows="8" cols="80" class="w-100"></textarea>
       <label for="message">Sua mensagem</label>
     </fieldset>
+    
     <!-- Botão -->
     <div class="tc">
       <button type="submit" class="btn w-100 w-auto-ns raise">Enviar</button>
