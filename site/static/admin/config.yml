@@ -81,13 +81,6 @@ collections: # Lista de coleções que o CMS pode editar
               - {label: Título, name: heading, widget: string}
               - {label: Texto, name: text, widget: text}
               - {label: Imagem, name: imageUrl, widget: image}
-              - label: Horários
-                name: hours
-                widget: object
-                fields:
-                  - {label: Título do Horário, name: title, widget: string}
-                  - {label: Horário, name: schedule, widget: text}
-
 
   - name: "site_settings"
     label: "Configurações do Site"
