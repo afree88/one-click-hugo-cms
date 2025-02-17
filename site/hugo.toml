@@ -5,4 +5,4 @@ title = "Pascom"
 disableKinds = ["RSS", "taxonomy", "taxonomyTerm"]
 
 [params]
-images = ["img/og-image.jpg"]
+images = ["img/android-chrome-512x512.png"]
