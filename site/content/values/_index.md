@@ -3,16 +3,18 @@ title: Horários
 image: /img/about-jumbotron.jpg
 values:
   - heading: Matriz N. Sra. Aparecida e S. Fco. Xavier
-    text: >-
-      ⛪ Missa Dominical: às
-      19:00-------------------------------------------------------
+    text: |-
+      ⛪ Missa Dominical: às **19:00. `<br>`**
 
-      🙏 Confissões: Quinta-feira, das 11:00 às 12:00-------------------------------
 
-      📖 Círculo Bíblico: Quarta-feira, às 19:30----------------------------------------
+      🙏 Confissões: Quinta-feira, das 11:00 às 12:00.
 
-      ✝️ Adoração ao Santíssimo: Quinta-feira, às 19:00---------------------------
-    imageUrl: img/17398019804a18.png
+
+      📖 Círculo Bíblico: Quarta-feira, às 19:30.
+
+
+      ✝️ Adoração ao Santíssimo: Quinta-feira, às 19:00.
+    imageUrl: img/img-20250201-wa0010.jpg
   - heading: Single origin
     text: >
       Single-origin coffee is coffee grown within a single known geographic
