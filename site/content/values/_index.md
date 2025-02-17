@@ -8,7 +8,7 @@ values:
       2. 🙏 Confissões: *Quinta-feira*, das 11:00 às 12:00
       3. 📖 Círculo Bíblico: Quarta-feira, às 19:30 
       4. ✝️ **Adoração ao Santíssimo**: Quinta-feira, às 19:00 <br>
-    imageUrl: img/img-20250201-wa0010.jpg
+    imageUrl: img/img-20250202-wa0147.jpg
   - heading: Single origin
     text: >
       Single-origin coffee is coffee grown within a single known geographic
