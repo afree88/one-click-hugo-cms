@@ -1,69 +1,58 @@
 ---
-title: Our Coffee
+title: Valores da Nossa Paróquia
 type: products
-image: /img/products-jumbotron.jpg
+image: img/img-20250202-wa0008.jpg
 intro:
-  heading: What we offer
-  description: Kaldi is the ultimate spot for coffee lovers who want to learn
-    about their java’s origin and support the farmers that grew it. We take
-    coffee production, roasting and brewing seriously and we’re glad to pass
-    that knowledge to anyone.
+  heading: O Que Você Encontrará Aqui
+  description: você encontrará uma variedade de recursos e informações que
+    fortalecem nosso compromisso com o Evangelho e o amor ao próximo
   blurbs:
-    - image: /img/illustrations-coffee.svg
-      text: >
-        We sell green and roasted coffee beans that are sourced directly from
-        independent farmers and farm cooperatives. We’re proud to offer a
-        variety of coffee beans grown with great care for the environment and
-        local communities. Check our post or contact us directly for current
-        availability.
-    - image: /img/illustrations-coffee-gear.svg
-      text: >
-        We offer a small, but carefully curated selection of brewing gear and
-        tools for every taste and experience level. No matter if you roast your
-        own beans or just bought your first french press, you’ll find a gadget
-        to fall in love with in our shop.
-    - image: /img/illustrations-tutorials.svg
-      text: >
-        Love a great cup of coffee, but never knew how to make one? Bought a
-        fancy new Chemex but have no clue how to use it? Don't worry, we’re here
-        to help. You can schedule a custom 1-on-1 consultation with our baristas
-        to learn anything you want to know about coffee roasting and brewing.
-        Email us or call the store for details.
-    - image: /img/illustrations-meeting-space.svg
-      text: >
-        We believe that good coffee has the power to bring people together.
-        That’s why we decided to turn a corner of our shop into a cozy meeting
-        space where you can hang out with fellow coffee lovers and learn about
-        coffee making techniques. All of the artwork on display there is for
-        sale. The full price you pay goes to the artist.
+    - image: img/calendario.png
+      text: Consulte a programação completa de missas, celebrações litúrgicas,
+        encontros do Santo Rosário, grupos de jovens e outras atividades que
+        promovem a comunhão e o crescimento espiritual.
+    - image: img/noticias.png
+      text: Fique por dentro das novidades da paróquia, eventos especiais, campanhas
+        solidárias e ações comunitárias. Nosso objetivo é mantê-lo informado
+        sobre tudo o que acontece em nosso lar de fé.
+    - image: img/espirito-santo.png
+      text: Acesse reflexões, meditações, orações e conteúdos que inspiram e ajudam a
+        nutrir sua jornada espiritual. Nosso site é um espaço de partilha e
+        aprendizado para todos que buscam se aproximar de Deus.
+    - image: img/pessoas-da-comunidade.png
+      text: Queremos ouvir você! Encontre canais de contato para tirar dúvidas, enviar
+        sugestões e se envolver ativamente nas nossas atividades. Sua
+        participação é fundamental para o fortalecimento da nossa comunidade.
 main:
-  heading: Great coffee with no compromises
-  description: >
-    We hold our coffee to the highest standards from the shrub to the cup.
-    That’s why we’re meticulous and transparent about each step of the coffee’s
-    journey. We personally visit each farm to make sure the conditions are
-    optimal for the plants, farmers and the local environment.
+  heading: Fé e Comunidade
+  description: Nossa paróquia é um lugar de acolhimento, espiritualidade e
+    compromisso com o Evangelho. Cuidamos de cada detalhe para que nossa
+    comunidade cresça em fé, amor e serviço ao próximo. Com transparência e
+    dedicação, promovemos ações que fortalecem a espiritualidade e o bem-estar
+    de todos. Aqui, cada encontro, oração e celebração é um passo a mais na
+    caminhada com Cristo.
   image1:
-    alt: A close-up of a paper filter filled with ground coffee
-    image: /img/products-grid3.jpg
+    alt: comunhão 1
+    image: img/img-20250209-wa0021.jpg
   image2:
-    alt: A green cup of a coffee on a wooden table
-    image: /img/products-grid2.jpg
+    alt: comunhão 2
+    image: img/img-20250202-wa0076.jpg
   image3:
-    alt: Coffee beans
-    image: /img/products-grid1.jpg
+    alt: comunhão 3
+    image: img/img-20250202-wa0163.jpg
 testimonials:
-  - author: Elisabeth Kaurismäki
-    quote: The first time I tried Kaldi’s coffee, I couldn’t even believe that was
-      the same thing I’ve been drinking every morning.
-  - author: Philipp Trommler
-    quote: Kaldi is the place to go if you want the best quality coffee. I love
-      their stance on empowering farmers and transparency.
-full_image: /img/products-full-width.jpg
+  - author: " João 3:16"
+    quote: Porque Deus amou o mundo de tal maneira que deu o seu Filho unigênito,
+      para que todo aquele que nele crê não pereça, mas tenha a vida eterna.
+  - author: João 2:15-16
+    quote: Não amem o mundo nem o que nele há. Se alguém ama o mundo, o amor do Pai
+      não está nele. Pois tudo o que há no mundo - a cobiça da carne, a cobiça
+      dos olhos e a ostentação dos bens - não provém do Pai, mas do mundo.
+full_image: img/jesus-on-the-cross-pictures-olempz1ee6fpx80g.jpg
 pricing:
-  heading: Monthly subscriptions
-  description: We make it easy to make great coffee a part of your life. Choose
-    one of our monthly subscription plans to receive great coffee at your
-    doorstep each month. Contact us about more details and payment info.
+  heading: Graça e Paz!
+  description: Não fui eu que te ordenei? Seja forte e corajoso! Não tenha medo
+    nem desanime, pois o Senhor, o seu Deus, estará com você por onde você
+    andar.
   plans: []
 ---
