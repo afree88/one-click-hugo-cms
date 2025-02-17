@@ -1,5 +1,5 @@
 ---
-title: Valores da Nossa Paróquia
+title: Princípios da Nossa Paróquia
 type: products
 image: img/img-20250202-wa0008.jpg
 intro:
