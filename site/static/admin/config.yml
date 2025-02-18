@@ -82,20 +82,38 @@ collections: # Lista de coleções que o CMS pode editar
           - {label: Imagem Completa, name: full_image, widget: image}
           - {label: Preços, name: pricing, widget: object, fields: [{label: Título, name: heading, widget: string}, {label: Descrição, name: description, widget: string}, {label: Planos, name: plans, widget: list, fields: [{label: Plano, name: plan, widget: string}, {label: Preço, name: price, widget: string}, {label: Descrição, name: description, widget: string}, {label: Itens, name: items, widget: list}]}]}
 
+
           
-      - file: "site/content/values/_index.md"
-        label: "Página dos Horários"
-        name: "values"
+      # - file: "site/content/values/_index.md"
+      #   label: "Página dos Horários"
+      #   name: "values"
+      #   fields:
+      #     - {label: Título, name: title, widget: string}
+      #     - {label: Imagem, name: image, widget: image}
+      #     - label: Valores
+      #       name: values
+      #       widget: list
+      #       fields:
+      #         - {label: Título, name: heading, widget: string}
+      #         - {label: Texto, name: text, widget: text}
+      #         - {label: Imagem, name: imageUrl, widget: image}
+
+      
+  - file: "site/content/horarios/_index.md"
+    label: "Horários das Missas"
+    name: "horarios"
+    fields:
+      - {label: "Título", name: "title", widget: "string"}
+      - {label: "Imagem", name: "image", widget: "image", required: false}
+      - label: "Lista de Horários"
+        name: "horarios"
+        widget: list
         fields:
-          - {label: Título, name: title, widget: string}
-          - {label: Imagem, name: image, widget: image}
-          - label: Valores
-            name: values
-            widget: list
-            fields:
-              - {label: Título, name: heading, widget: string}
-              - {label: Texto, name: text, widget: text}
-              - {label: Imagem, name: imageUrl, widget: image}
+          - {label: "Dia", name: "dia", widget: "string"}
+          - {label: "Horário", name: "horario", widget: "string"}
+
+
+
 
 
   - name: "site_settings"
