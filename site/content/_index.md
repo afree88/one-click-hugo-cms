@@ -3,7 +3,7 @@ title: Graça e Paz!
 subtitle: Bem-vindo à nossa Paróquia Nossa Senhora Aparecida e São Francisco Xavier
 image: img/img-20250216-wa0042.jpg
 blurb:
-  heading: Nossa Missão e Valores
+  heading: Nossa Missão
   text: Somos uma comunidade comprometida em viver o Evangelho de forma plena e
     autêntica. Inspirados pela devoção a Nossa Senhora Aparecida e pelo exemplo
     de São Francisco Xavier, buscamos ser um farol de luz e compaixão em um
