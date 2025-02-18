@@ -6,12 +6,16 @@ values:
     imageUrl: img/17398019804a18.png
     horarios:
       - hora: ⏰ 19:00
-        descricao: 📅 Domingo ⛪🎶 - <strong>Missa 🙌🎵</strong>
+        descricao: 📅 Domingo ⛪ Missa
+      - descricao: 📅 Terça-feira 📿 Terço dos Homens
+        hora: ⏰ 00:00
   - heading: "Nossa Senhora do Perpétuo Socorro "
     imageUrl: img/nossa-sra.-do-perpétuo-socorro-bairro-cândido-rhermes.png
     horarios:
       - hora: 08:00
-        descricao: Missa
+        descricao: 📅 Domingo ⛪ Missa
+      - descricao: 📅 Terça-feira 📿 Terço dos Homens
+        hora: 19:30
   - heading: Direct sourcing
     imageUrl: /img/about-direct-sourcing.jpg
   - heading: Reinvest profits
