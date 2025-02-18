@@ -2,13 +2,16 @@
 title: Horários
 image: /img/about-jumbotron.jpg
 values:
-  - heading: Matriz N. Sra. Aparecida e S. Fco. Xavier
-    imageUrl: img/img-20250201-wa0010.jpg
+  - heading: Matriz Nossa Senhora Aparecida
+    imageUrl: img/17398019804a18.png
     horarios:
-      - hora: 10:30
-        descricao: teesaasff
-  - heading: Sustainable farming
-    imageUrl: img/img-20250201-wa0010.jpg
+      - hora: 19:00
+        descricao: Missa
+  - heading: "Nossa Senhora do Perpétuo Socorro "
+    imageUrl: img/nossa-sra.-do-perpétuo-socorro-bairro-cândido-rhermes.png
+    horarios:
+      - hora: 08:00
+        descricao: Missa
   - heading: Direct sourcing
     imageUrl: /img/about-direct-sourcing.jpg
   - heading: Reinvest profits
