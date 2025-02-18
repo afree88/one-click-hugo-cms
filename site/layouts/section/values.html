@@ -4,6 +4,19 @@
 
 <div class="mw7 center ph3 pt4">
 
+  {{ if .Params.horarios }}
+  <section class="horarios mb4">
+    <h2 class="tc">Horários das Missas</h2>
+    <ul class="list pl0">
+      {{ range .Params.horarios }}
+        <li class="mb3">
+          <strong>{{ .dia }}:</strong> {{ .horario }}
+        </li>
+      {{ end }}
+    </ul>
+  </section>
+  {{ end }}
+
   {{ range $index, $element := .Params.values }}
     {{ if modBool $index 2 }}
       {{ partial "media-block" $element }}
