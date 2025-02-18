@@ -9,6 +9,12 @@ values:
         descricao: Domingo
       - descricao: Terça
         hora: "📿 Terço dos Homens: 00:00"
+      - hora: "📖 Círculo Bíblico: -:-"
+        descricao: Quarta
+      - descricao: Quinta
+        hora: "✝️ Confissões: -:-"
+      - hora: "🕯️ Adoração ao Santíssimo: -:-"
+        descricao: "?"
   - heading: "Nossa Senhora do Perpétuo Socorro "
     imageUrl: img/nossa-sra.-do-perpétuo-socorro-bairro-cândido-rhermes.png
     horarios:
@@ -23,9 +29,39 @@ values:
       - hora: "🕯️ Adoração ao Santíssimo: -:-"
         descricao: "?"
   - heading: Direct sourcing
+      - hora: "⛪ Missa: 08:00"
+        descricao: Domingo
+      - descricao: Terça
+        hora: "📿 Terço dos Homens: 19:30"
+      - hora: "📖 Círculo Bíblico: -:-"
+        descricao: Quarta
+      - descricao: Quinta
+        hora: "✝️ Confissões: -:-"
+      - hora: "🕯️ Adoração ao Santíssimo: -:-"
+        descricao: "?"
     imageUrl: /img/about-direct-sourcing.jpg
   - heading: Reinvest profits
+      - hora: "⛪ Missa: 08:00"
+        descricao: Domingo
+      - descricao: Terça
+        hora: "📿 Terço dos Homens: 19:30"
+      - hora: "📖 Círculo Bíblico: -:-"
+        descricao: Quarta
+      - descricao: Quinta
+        hora: "✝️ Confissões: -:-"
+      - hora: "🕯️ Adoração ao Santíssimo: -:-"
+        descricao: "?"
     imageUrl: /img/about-reinvest-profits.jpg
   - heading: Single origin
+      - hora: "⛪ Missa: 08:00"
+        descricao: Domingo
+      - descricao: Terça
+        hora: "📿 Terço dos Homens: 19:30"
+      - hora: "📖 Círculo Bíblico: -:-"
+        descricao: Quarta
+      - descricao: Quinta
+        hora: "✝️ Confissões: -:-"
+      - hora: "🕯️ Adoração ao Santíssimo: -:-"
+        descricao: "?"
     imageUrl: /img/about-single-origin.jpg
 ---
