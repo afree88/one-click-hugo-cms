@@ -1,5 +1,5 @@
 ---
-title: Graça e Paz!
+title: Graça e Paz
 subtitle: Bem-vindo à nossa Paróquia Nossa Senhora Aparecida e São Francisco Xavier
 image: img/img-20250216-wa0042.jpg
 blurb:
