@@ -3,18 +3,16 @@ title: Horários
 image: /img/about-jumbotron.jpg
 values:
   - heading: Matriz N. Sra. Aparecida e S. Fco. Xavier
-    text: |-
-      1. ⛪ Missa Dominical: às 19:00
-      2. 🙏 Confissões: *Quinta-feira*, das 11:00 às 12:00
-      3. 📖 Círculo Bíblico: Quarta-feira, às 19:30 
-      4. ✝️ Adoração ao Santíssimo: Quinta-feira, às 19:00
-    imageUrl: img/img-20250202-wa0147.jpg
+    text: Nossa comunidade está de braços abertos para receber você e sua família em
+      nossas Missas! 💒 Participar da Santa Missa é um momento de fé, renovação
+      e encontro com Deus.
+    imageUrl: img/img-20250201-wa0010.jpg
   - heading: Sustainable farming
     text: Sustainable agriculture is farming in sustainable ways based on an
       understanding of ecosystem services, the study of relationships between
       organisms and their environment. What grows where and how it is grown are
       a matter of choice and careful consideration for nature and communities
-    imageUrl: /img/about-sustainable-farming.jpg
+    imageUrl: img/img-20250201-wa0010.jpg
   - heading: Direct sourcing
     text: >
       We want to truly empower the communities that bring amazing coffee to you.
