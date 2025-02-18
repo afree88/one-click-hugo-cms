@@ -1,9 +1,10 @@
 ---
 title: Horários
-image: /img/about-jumbotron.jpg
+image: img/img-20250202-wa0237.jpg
 values:
-  - heading: Matriz Nossa Senhora Aparecida
-    imageUrl: img/17398019804a18.png
+  - heading: MATRIZ NOSSA SENHORA APARECIDA E SÃO FRANCISCO XAVIER - Bairro Alto do
+      Pacote
+    imageUrl: img/matriz-nossa-senhora-aparecida-e-são-francisco-xavier-bairro-alto-do-pacote.png
     horarios:
       - hora: "⛪ Missa: 19:00"
         descricao: Domingo
@@ -15,7 +16,7 @@ values:
         hora: "✝️ Confissões: -:-"
       - hora: "🕯️ Adoração ao Santíssimo: -:-"
         descricao: "?"
-  - heading: "Nossa Senhora do Perpétuo Socorro"
+  - heading: NOSSA SRA. DO PERPÉTUO SOCORRO - Bairro Cândido Hermes
     imageUrl: img/nossa-sra.-do-perpétuo-socorro-bairro-cândido-rhermes.png
     horarios:
       - hora: "⛪ Missa: 08:00"
@@ -28,39 +29,39 @@ values:
         hora: "✝️ Confissões: -:-"
       - hora: "🕯️ Adoração ao Santíssimo: -:-"
         descricao: "?"
-  - heading: "Direct sourcing"
-    imageUrl: /img/about-direct-sourcing.jpg
+  - heading: São João Batista - Rua São João
+    imageUrl: img/são-joão-batista-rua-são-joao.png
     horarios:
-      - hora: "⛪ Missa: 08:00"
+      - hora: "⛪ Missa: -:-"
         descricao: Domingo
       - descricao: Terça
-        hora: "📿 Terço dos Homens: 19:30"
+        hora: "📿 Terço dos Homens: -:-"
       - hora: "📖 Círculo Bíblico: -:-"
         descricao: Quarta
       - descricao: Quinta
         hora: "✝️ Confissões: -:-"
       - hora: "🕯️ Adoração ao Santíssimo: -:-"
         descricao: "?"
-  - heading: "Reinvest profits"
-    imageUrl: /img/about-reinvest-profits.jpg
+  - heading: Santa Terezinha do Menino Jesus - Bairro Dom Pedro I
+    imageUrl: img/santa-terezlnha-do-menino-jesus-bairro-dom-pedro-i.png
     horarios:
-      - hora: "⛪ Missa: 08:00"
+      - hora: "⛪ Missa: -:-"
         descricao: Domingo
       - descricao: Terça
-        hora: "📿 Terço dos Homens: 19:30"
+        hora: "📿 Terço dos Homens: -:-"
       - hora: "📖 Círculo Bíblico: -:-"
         descricao: Quarta
       - descricao: Quinta
         hora: "✝️ Confissões: -:-"
       - hora: "🕯️ Adoração ao Santíssimo: -:-"
         descricao: "?"
-  - heading: "Single origin"
-    imageUrl: /img/about-single-origin.jpg
+  - heading: SANTA RITA DE CÁSSIA - Povoado São José do Jacú
+    imageUrl: img/santa-rita-de-cássia-povoado-são-josé-do-jacú.png
     horarios:
-      - hora: "⛪ Missa: 08:00"
+      - hora: "⛪ Missa: -:-"
         descricao: Domingo
       - descricao: Terça
-        hora: "📿 Terço dos Homens: 19:30"
+        hora: "📿 Terço dos Homens: -:-"
       - hora: "📖 Círculo Bíblico: -:-"
         descricao: Quarta
       - descricao: Quinta
