@@ -6,7 +6,19 @@
 
   <div class="ph3-m w-50-m">
     <h3 class="f3 b lh-title mb1">{{.heading}}</h3>
-    <p>{{.text}}</p>
+
+    {{ if .horarios }}
+      <ul class="list pl0">
+        {{ range .horarios }}
+          <li class="mb2">
+            <strong>{{ .hora }}:</strong> {{ .descricao }}
+          </li>
+        {{ end }}
+      </ul>
+    {{ else }}
+      <p>Nenhum horário disponível.</p>
+    {{ end }}
+
   </div>
 
 </div>
