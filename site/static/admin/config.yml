@@ -48,7 +48,7 @@ collections: # Lista de coleções que o CMS pode editar
               
           - {label: "Valores", name: values, widget: object, fields: [
               {label: "Título", name: "heading", widget: string},
-              {label: "Texto", name: "text", widget: markdown}]}
+              {label: "Texto", name: "text", widget: text}]}
 
               
       - file: "site/content/contact/_index.md"
@@ -94,7 +94,7 @@ collections: # Lista de coleções que o CMS pode editar
             widget: list
             fields:
               - {label: Título, name: heading, widget: string}
-              - {label: Texto, name: text, widget: markdown}
+              - {label: Texto, name: text, widget: text}
               - {label: Imagem, name: imageUrl, widget: image}
 
 
