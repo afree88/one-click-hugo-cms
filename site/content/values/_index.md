@@ -7,6 +7,9 @@ values:
       nossas Missas! 💒 Participar da Santa Missa é um momento de fé, renovação
       e encontro com Deus.
     imageUrl: img/img-20250201-wa0010.jpg
+    horarios:
+      - hora: 10:30
+        descricao: teesaasff
   - heading: Sustainable farming
     text: Sustainable agriculture is farming in sustainable ways based on an
       understanding of ecosystem services, the study of relationships between
