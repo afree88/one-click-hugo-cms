@@ -9,7 +9,7 @@ values:
       - hora: "⛪ Missa: 19:00"
         descricao: Domingo
       - descricao: Terça
-        hora: "📿 Terço dos Homens: 00:00"
+        hora: "📿 Terço dos Homens: -:-"
       - hora: "📖 Círculo Bíblico: -:-"
         descricao: Quarta
       - descricao: Quinta
