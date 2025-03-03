@@ -48,7 +48,7 @@ testimonials:
     quote: Não amem o mundo nem o que nele há. Se alguém ama o mundo, o amor do Pai
       não está nele. Pois tudo o que há no mundo - a cobiça da carne, a cobiça
       dos olhos e a ostentação dos bens - não provém do Pai, mas do mundo.
-full_image: img/cross-2713353_1280.jpg
+full_image: img/img-20250202-wa0237.jpg
 pricing:
   heading: Graça e Paz!
   description: Não fui eu que te ordenei? Seja forte e corajoso! Não tenha medo
