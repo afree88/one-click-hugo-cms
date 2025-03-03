@@ -1,28 +1,35 @@
 ---
-title: Graça e Paz
-subtitle: Bem-vindo à nossa Paróquia Nossa Senhora Aparecida e São Francisco Xavier
-image: img/img-20250216-wa0042.jpg
+title: Bem-vindo à página da Paróquia Nossa Senhora Aparecida e São Francisco Xavier!
+subtitle: É com grande alegria que recebemos você em nossa comunidade virtual,
+  um espaço dedicado à fé, à partilha e ao crescimento espiritual. Aqui,
+  buscamos viver o amor de Cristo, seguindo os exemplos de Nossa Senhora
+  Aparecida, padroeira do Brasil, e de São Francisco Xavier, missionário
+  incansável da fé.
+image: img/img-20250202-wa0237.jpg
 blurb:
   heading: Nossa Missão
-  text: Somos uma comunidade comprometida em viver o Evangelho de forma plena e
+  text: >-
+    Somos uma comunidade comprometida em viver o Evangelho de forma plena e
     autêntica. Inspirados pela devoção a Nossa Senhora Aparecida e pelo exemplo
     de São Francisco Xavier, buscamos ser um farol de luz e compaixão em um
     mundo que tanto precisa de esperança. Nossa missão é compartilhar a palavra
     divina, promover a espiritualidade e realizar ações concretas de
     solidariedade e amor ao próximo.
+
+    Fique à vontade para explorar nosso site, participar de nossas atividades e, se desejar, entrar em contato conosco. Juntos, construímos uma Igreja viva e acolhedora, testemunhando o amor de Deus no mundo.
 intro:
   heading: O Que Você Encontrará Aqui
-  text: você encontrará uma variedade de recursos e informações que fortalecem
-    nosso compromisso com o Evangelho e o amor ao próximo
+  text: Seja você um paroquiano, um visitante ou alguém em busca de Deus, saiba
+    que esta é a sua casa. Aqui, você encontrará informações sobre nossas
+    celebrações, atividades pastorais, grupos de oração e iniciativas que
+    fortalecem nossa caminhada em comunidade.
 products:
-  - image: img/calendario.png
-    text: Consulte a programação completa de missas, celebrações litúrgicas,
-      encontros do Santo Rosário, grupos de jovens e outras atividades que
-      promovem a comunhão e o crescimento espiritual.
-  - image: img/noticias.png
-    text: Fique por dentro das novidades da paróquia, eventos especiais, campanhas
-      solidárias e ações comunitárias. Nosso objetivo é mantê-lo informado sobre
-      tudo o que acontece em nosso lar de fé.
+  - image: img/notícias-católicas.png
+    text: Notícias da Igreja Católica
+  - image: img/catequese-do-dia.png
+    text: Conteúdos de Catequese para Crianças, Jovens e Adultos
+  - image: img/reflexão-do-dia.png
+    text: Reflexões Bíblicas e Orações
 values:
   heading: Caminhando Juntos na Fé
   text: >-
